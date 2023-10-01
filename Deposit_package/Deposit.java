@@ -14,7 +14,7 @@ public class Deposit extends Component {
     public Deposit(){
         String url="jdbc:mysql://127.0.0.1:3306";
         String uname="root";
-        String paswd="PRIPREETH26";
+        String paswd="0000";
         String databaseName="bank";
         JFrame j = new JFrame("WELCOME");
         j.setSize(1200, 800);
